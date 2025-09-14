@@ -141,3 +141,75 @@ getTextFromMessage(Message message)
 ## Security Note
 * Use environment variables for credentials
 * Generate App Password from Google Account Security
+
+
+
+# Project setup
+
+## Install Git in your system
+## open CMD command line window
+<img width="865" height="646" alt="image" src="https://github.com/user-attachments/assets/34d85ae8-44c9-4616-8fa1-344d5ee62aec" />
+
+and enter the command : git clone https://github.com/amitkumrydv/OTPbasedLogin.git
+<img width="984" height="517" alt="image" src="https://github.com/user-attachments/assets/ed229be4-e3f0-43a9-a57b-5b3176d8d956" />
+
+## After clone import in your eclips ide as maven.
+
+## And after success full import project
+
+* Right click on the project to set the environment variable for email or password
+
+  <img width="1365" height="723" alt="image" src="https://github.com/user-attachments/assets/761880f2-f15c-4742-96fc-4467c1beb103" />
+
+  <img width="865" height="646" alt="image" src="https://github.com/user-attachments/assets/1cd39e7a-9b66-4e4d-8757-c83012c3a61c" />
+
+  <img width="1355" height="635" alt="image" src="https://github.com/user-attachments/assets/969e8e40-1435-4cfd-81ad-f7eb0ac2d21a" />
+
+  <img width="1356" height="583" alt="image" src="https://github.com/user-attachments/assets/a418d59a-450f-4131-8735-5314087eace3" />
+
+ <img width="1346" height="681" alt="image" src="https://github.com/user-attachments/assets/f4fd9a49-fb5d-42fd-a990-ceca4127dd0f" />
+
+ <img width="1365" height="701" alt="image" src="https://github.com/user-attachments/assets/594ac4f4-3735-4ef5-aa8a-34807e3dea50" />
+
+ ## Now you see in the screen short there have mention the passord so we generate password using SMPT.
+
+ * Login you email in the chrome browser ( it only for gmail user not any other such as yahoo, outlook etc.. )
+ * search the url in same browser or tab https://myaccount.google.com/apppasswords
+
+   <img width="1360" height="691" alt="image" src="https://github.com/user-attachments/assets/d9af0c10-fe66-4a83-9170-b9c1bb3b5df4" />
+
+   <img width="1365" height="571" alt="image" src="https://github.com/user-attachments/assets/bf58dca0-718e-4421-8cb1-f966e216ce9f" />
+
+   <img width="1326" height="653" alt="image" src="https://github.com/user-attachments/assets/89a66e4a-4bee-439c-b92a-0ce022dd09ea" />
+
+   ## use this passwored over here
+   
+  <img width="1359" height="681" alt="image" src="https://github.com/user-attachments/assets/c0575253-21c6-4e00-a71c-dce1e57d9230" />
+
+ ## Use any java version it should 1.8 or above.
+
+ ## Once complete all above step you can run the project.
+  <img width="1365" height="714" alt="image" src="https://github.com/user-attachments/assets/57568717-70bc-4e49-b226-f2ac3d60c9bd" />
+
+  if not execute you can comment i wiil connect wit you guys...
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
